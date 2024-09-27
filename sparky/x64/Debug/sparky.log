@@ -1,0 +1,30 @@
+﻿  FileName.cpp
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(13,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(13,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(13,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(13,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(16,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(16,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(16,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(16,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(19,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(19,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(19,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(19,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(22,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(22,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(22,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(22,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(159,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(159,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(161,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(161,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(163,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(163,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(166,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(166,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(169,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\sparky\sparky\FileName.cpp(169,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  sparky.vcxproj -> C:\Users\kyubi\source\repos\sparky\x64\Debug\sparky.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
